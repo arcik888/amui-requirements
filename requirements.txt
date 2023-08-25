@@ -1,5 +1,5 @@
 django==4.2.4
 djangorestframework==3.14
-psycopg2==2.9.6
+mysqlclient==2.2.0
 gunicorn==21.2.0
 pytest-django==7.4.0
